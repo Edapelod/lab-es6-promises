@@ -95,4 +95,3 @@ makeBroccoli();
 
 
 // Bonus 2 - Promise all
-// ...
